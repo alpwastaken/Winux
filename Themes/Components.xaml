@@ -1,0 +1,21 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <!-- Icons -->
+    <SvgImageSource x:Key="ElementaryAdressBookIcon" RasterizePixelWidth="48" RasterizePixelHeight="48" UriSource="/Themes/Icons/Elementary/Apps/48/AdressBook.svg"/>
+    <SvgImageSource x:Key="ElementaryAppCenterIcon" RasterizePixelWidth="48" RasterizePixelHeight="48" UriSource="/Themes/Icons/Elementary/Apps/48/AppCenter.svg"/>
+    <SvgImageSource x:Key="ElementaryCalculatorIcon" RasterizePixelWidth="48" RasterizePixelHeight="48" UriSource="/Themes/Icons/Elementary/Apps/48/Calculator.svg"/>
+    <SvgImageSource x:Key="ElementaryCalendarIcon" RasterizePixelWidth="48" RasterizePixelHeight="48" UriSource="/Themes/Icons/Elementary/Apps/48/Calendar.svg"/>
+    <SvgImageSource x:Key="ElementaryChatIcon" RasterizePixelWidth="48" RasterizePixelHeight="48" UriSource="/Themes/Icons/Elementary/Apps/48/Chat.svg"/>
+    <SvgImageSource x:Key="ElementaryFilesIcon" RasterizePixelWidth="48" RasterizePixelHeight="48" UriSource="/Themes/Icons/Elementary/Apps/48/Files.svg"/>
+    <SvgImageSource x:Key="ElementaryMusicsIcon" RasterizePixelWidth="48" RasterizePixelHeight="48" UriSource="/Themes/Icons/Elementary/Apps/48/Musics.svg"/>
+    <SvgImageSource x:Key="ElementaryPhotosIcon" RasterizePixelWidth="48" RasterizePixelHeight="48" UriSource="/Themes/Icons/Elementary/Apps/48/Photos.svg"/>
+    <SvgImageSource x:Key="ElementaryPreferencesIcon" RasterizePixelWidth="48" RasterizePixelHeight="48" UriSource="/Themes/Icons/Elementary/Apps/48/Preferences.svg"/>
+    <SvgImageSource x:Key="ElementaryTerminalIcon" RasterizePixelWidth="48" RasterizePixelHeight="48" UriSource="/Themes/Icons/Elementary/Apps/48/Terminal.svg"/>
+    <SvgImageSource x:Key="ElementaryTextEditorIcon" RasterizePixelWidth="48" RasterizePixelHeight="48" UriSource="/Themes/Icons/Elementary/Apps/48/TextEditor.svg"/>
+    <SvgImageSource x:Key="ElementaryUpdatesIcon" RasterizePixelWidth="48" RasterizePixelHeight="48" UriSource="/Themes/Icons/Elementary/Apps/48/Updates.svg"/>
+    <SvgImageSource x:Key="ElementaryVideosIcon" RasterizePixelWidth="48" RasterizePixelHeight="48" UriSource="/Themes/Icons/Elementary/Apps/48/Videos.svg"/>
+    <SvgImageSource x:Key="ElementaryWebIcon" RasterizePixelWidth="48" RasterizePixelHeight="48" UriSource="/Themes/Icons/Elementary/Apps/48/Web.svg"/>
+    
+</ResourceDictionary>

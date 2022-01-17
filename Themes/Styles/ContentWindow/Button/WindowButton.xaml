@@ -1,0 +1,30 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Style x:Key="WindowButton" TargetType="Button">
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="FontFamily" Value="Segoe MDL2 Assets"/>
+        <Setter Property="FontSize" Value="10"/>
+        <Setter Property="Padding" Value="0"/>
+        <Setter Property="VerticalAlignment" Value="Stretch"/>
+        <Setter Property="Width" Value="32"/>
+    </Style>
+
+    <Style x:Key="MinimizeButton" BasedOn="{StaticResource WindowButton}" TargetType="Button">
+        <Setter Property="Content" Value="&#xE921;"/>
+    </Style>
+
+    <Style x:Key="MaximizeButton" BasedOn="{StaticResource WindowButton}" TargetType="Button">
+        <Setter Property="Content" Value="&#xE922;"/>
+    </Style>
+
+    <Style x:Key="RestoreButton" BasedOn="{StaticResource WindowButton}" TargetType="Button">
+        <Setter Property="Content" Value="&#xE923;"/>
+    </Style>
+
+    <Style x:Key="CloseButton" BasedOn="{StaticResource WindowButton}" TargetType="Button">
+        <Setter Property="Content" Value="&#xE8BB;"/>
+    </Style>
+
+</ResourceDictionary>
